@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300:600:700:800&family=Rubik:wght@300;400;500;600&display=swap');
 
 :root {
-    --primary-color: #0030A0;
+    --primary-color: #6C719D;
     --secondary-color: #794afa;
-    --secondary-dark-color: #F58A07;
+    --secondary-dark-color: #414562;
 
     --white-color: #fff;
     --light-bg-color: #F2F3F5;
@@ -651,6 +651,7 @@ form.search button:hover {
     transform: translateX(100%);
     transition: transform 0.5s ease-in-out, opacity 0.5s ease-in-out;
 }
+
 
 .slide.active {
     opacity: 1;
